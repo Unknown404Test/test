@@ -26,4 +26,4 @@ jobs:
           name: ggml-medium.en-q5_0
           path: ggml-medium.en-q5_0.bin
           retention-days: 1
-          compression-level: 0
+          compression-level: 6
